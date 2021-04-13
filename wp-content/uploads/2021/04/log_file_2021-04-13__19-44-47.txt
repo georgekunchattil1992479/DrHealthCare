@@ -1,0 +1,55 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/DrHealthCare
+Data file = D:\Installed\xampp server\htdocs\DrHealthCare/wp-content/uploads/2021/04/betterhealth.wordpress.2017-09-14-1.xml
+Widget file = D:\Installed\xampp server\htdocs\DrHealthCare/wp-content/uploads/2021/04/demo.canyonthemes.com-better-health-widgets-1.wie
+Customizer file = D:\Installed\xampp server\htdocs\DrHealthCare/wp-content/uploads/2021/04/better-health-export-1-1.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Home Page Widget Area : 
+
+Better Health Welcome Message - No Title - Widget already exists
+Better Health Service Widget - Service Title - Widget already exists
+Better Health Our Misson Page - No Title - Widget already exists
+better-health-our-work-widget - OUR TREATMENT GALLERY - Site does not support widget
+Better Health Quote Widget - Contact us for any type of Medical Services. Contact Us Today !! - Widget already exists
+Better Health Testimonial Widget - No Title - Widget already exists
+Better Health Recent Post Widget - Recent Posts - Widget already exists
+
+Footer 1 : 
+
+Recent Posts - Recent Posts - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - Free Themes - Widget already exists
+
+Footer 3 : 
+
+Pages - Pages - Widget already exists
+
+Footer 4 : 
+
+Navigation Menu - Important Links - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
